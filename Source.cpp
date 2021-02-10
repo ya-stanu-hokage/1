@@ -9,6 +9,10 @@ int main()
 
 	float f();
 
+	float g();
+
+	
+
 	std::cout << "Hello world";
 
 	return 0;
