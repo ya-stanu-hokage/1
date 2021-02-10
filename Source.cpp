@@ -11,7 +11,7 @@ int main()
 
 	float g();
 
-	
+	std::cout<<"END";
 
 	std::cout << "Hello world";
 
